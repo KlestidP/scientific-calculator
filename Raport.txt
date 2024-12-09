@@ -100,6 +100,7 @@ Performance was evaluated using the following criteria:
    - Commands were parsed and executed efficiently, with quick feedback provided to the user.
 
 
+
 6. Testing
 In order to manually test the calculator, the following commands should be executed:
 
@@ -125,6 +126,8 @@ Example:
     Warning: Division by zero resulted in Infinity.
 
 In order to exit the program, click Ctrl+C.
+
+
 
 Conclusion
 The project implementation of a modular and efficient scientific calculator was successful. The architecture, error handling and rigorous testing
